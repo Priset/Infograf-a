@@ -1,2 +1,3 @@
 # Infografia
-Recoílación de código como aprender sobre Infografia y sus aplicaciones.
+Recopílación de código para aprender sobre Infografia y sus aplicaciones.
+
